@@ -24,7 +24,6 @@ Then he mastered the MS POWER APPS platform at the enterprise and wrote his own 
 - HTML5, CSS3 Basics
 - TypeScript Basics
 - JavaScript Basics
-- Git, GitHub
 - VS Code, IntelliJ IDEA
 - Adobe Photoshop
 - Power Apps DEV

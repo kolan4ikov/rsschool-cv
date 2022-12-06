@@ -93,8 +93,7 @@ If(
 
 ### Courses:
 
-- HTML and CSS Tutorials on the  (completed)<br>
-- JavaScript Manual on (in progress)
+
 - RS Schools Course 
 
 ---
